@@ -14,6 +14,8 @@ I am MSc computer engineering student based in Bergamo.
 Learn more and contribute on [GitHub](https://github.com/spf13).
 
 ## Setup
+### Academic career
+#### Work experience
 
 Some fun facts about [Hugo](http://gohugo.io/):
 
