@@ -1,4 +1,4 @@
-baseurl = "http://www.example.com"
+baseurl = "https://elegant-lumiere-8481ea.netlify.app"
 title = "Matteo Stucchi"
 theme = "coder-portfolio"
 DefaultContentLanguage = "en"
