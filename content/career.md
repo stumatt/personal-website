@@ -1,8 +1,8 @@
 +++
-title = "Projects"
-slug = "projects"
+title = "career"
+slug = "career"
 thumbnail = "images/tn.png"
-description = "projects"
+description = "career"
 +++
 
 ## Portfolio Demo
