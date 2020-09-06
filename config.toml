@@ -1,0 +1,121 @@
+baseurl = "http://www.example.com"
+title = "Matteo Stucchi"
+theme = "coder-portfolio"
+DefaultContentLanguage = "en"
+
+paginate = 20
+
+pygmentsstyle = "b2"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+pygmentsUseClasses = true
+
+disqusShortname = "yourdiscussshortname"
+
+[params]
+    author = "Matteo Stucchi"
+    description = "Matteo Stucchi's personal website"
+    keywords = "blog,developer,personal"
+    info = "WEB AND APPS ENGINEER"
+    avatarurl = "images/avatar.jpg"
+    footercontent = "Enter a text here."
+    fixedbarContent = "Do you want to contact me? → "
+    #fixedbarContentAfter = "Thank You! Please share it if you like it→"
+
+    hideCredits = false
+    hideCopyright = false
+
+    # Bottom sns share
+    snsShare = true
+    # Popular sns share
+    # if you want add sns. please message!
+    enableTwitterShare = false
+    enableFacebookShare = false
+    enableHatenaShare = false
+    enableLineShare = false
+    enableLinkedInShare = false
+
+    thumbnail = "images/tn.png"
+
+    # Custom CSS
+    custom_css = []
+
+    # Alignment of Mobile Menu items
+    itemscentered = true
+
+    # RTL support
+    rtl = false
+
+    langseparator = "|"
+
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github"
+    weight = 1
+    url = "https://github.com/stumatt/"
+
+[[params.social]]
+    name = "LinkedIn"
+    icon = "fab fa-linkedin"
+    weight = 3
+    url = "https://www.linkedin.com/in/matteo-stucchi-a7540899/"
+
+[languages]
+    [languages.en]
+        languagecode = "en"
+        languagename = "English" # The language name to be displayed in the selector.
+        title = "Matteo Stucchi"
+
+        # You can configure the theme parameter for each language.
+        [languages.en.params]
+            author = "Matteo Stucchi"
+            info = "WEB AND APPS ENGINEER"
+            description = "Matteo Stucchi's personal website"
+            keywords = "blog,developer,personal"
+
+        [languages.en.menu] # It is possible to change the menu too.
+
+            [[languages.en.menu.main]]
+                name = "About"
+                weight = 1.0
+                url = "about"
+
+            [[languages.en.menu.main]]
+                name = "Career"
+                weight = 2.0
+                url = "career"
+
+            [[languages.en.menu.main]]
+                name = "Skills"
+                weight = 3
+                url = "skills"
+
+#Italian section appearence settings
+[languages.it]
+    languagecode = "it"
+    languagename = "Italiano" # The language name to be displayed in the selector.
+    title = "Matteo Stucchi"
+
+    # You can configure the theme parameter for each language.
+    [languages.it.params]
+        author = "Matteo Stucchi"
+        info = "WEB AND APPS ENGINEER"
+        description = "Matteo Stucchi's personal website"
+        keywords = "blog,developer,personal"
+
+    [languages.it.menu] # It is possible to change the menu too.
+
+        [[languages.it.menu.main]]
+            name = "About"
+            weight = 1.0
+            url = "about"
+
+        [[languages.it.menu.main]]
+            name = "Carriera"
+            weight = 2.0
+            url = "career"
+
+        [[languages.it.menu.main]]
+            name = "Competenze"
+            weight = 3
+            url = "skills"
