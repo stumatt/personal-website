@@ -13,8 +13,14 @@ I am MSc computer engineering student based in Bergamo.
 
 Learn more and contribute on [GitHub](https://github.com/spf13).
 
-## Setup
-### Academic career
+## Career
+---------------------------
+### Education
+* [2019 - Now](Master of Engineering in Computer Engineering,Università degli studi di Bergamo, Italy)
+* [Jan - Jun 2020](Erasmus Semester,Blekinge Institute of Technology, Karlskrona, Sweden)
+* [2016 - 2019](Bachelor of Engineering in Computer Engineering,Università degli Studi diBergamo, Italy)
+
+
 #### Work experience
 
 Some fun facts about [Hugo](http://gohugo.io/):
