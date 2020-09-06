@@ -11,8 +11,6 @@ I am MSc computer engineering student based in Bergamo.
 ---------------------------
 [comment]: <> (* [Cast](https://github.com/spf13/cast))
 
-Learn more and contribute on [GitHub](https://github.com/spf13).
-
 ## Career
 ---------------------------
 ### Education
