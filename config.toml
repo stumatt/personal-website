@@ -58,7 +58,7 @@ disqusShortname = "yourdiscussshortname"
     name = "LinkedIn"
     icon = "fab fa-linkedin"
     weight = 3
-    url = "https://www.linkedin.com/in/matteo-stucchi-a7540899/"
+    url = "https://www.linkedin.com/in/matteo-stucchi-0110aa11a/"
 
 [languages]
     [languages.en]
