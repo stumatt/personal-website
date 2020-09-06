@@ -18,9 +18,9 @@ disqusShortname = "yourdiscussshortname"
     keywords = "blog,developer,personal"
     info = "WEB AND APPS ENGINEER"
     avatarurl = "images/avatar.jpg"
-    footercontent = "Enter a text here."
+    #footercontent = "Enter a text here."
     fixedbarContent = "Do you want to contact me? → "
-    #fixedbarContentAfter = "Thank You! Please share it if you like it→"
+    fixedbarContentAfter = "baseurl/about"
 
     hideCredits = false
     hideCopyright = false

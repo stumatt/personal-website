@@ -5,13 +5,13 @@ thumbnail = "images/tn.png"
 description = "skills"
 +++
 
-# Skills
+
 ---------------------------
 
 ## Certifications
-* **[On the way]** *User Experience: The Beginner's Guide*, Interaction Design Foundation
-* **[On the way]** *Design Thinking: The Beginner's Guide*, Interaction Design Foundation
-* **[2016]** *Cisco Certified Network Associate Routing & Switching (CCNA)*, Cisco Network Accademy
+* **[On the way]** *User Experience: The Beginner's Guide*, Interaction Design Foundation.
+* **[On the way]** *Design Thinking: The Beginner's Guide*, Interaction Design Foundation.
+* **[2016]** *Cisco Certified Network Associate Routing & Switching (CCNA)*, Cisco Network Academy.
 
 ## Programming
 * C
@@ -21,7 +21,8 @@ description = "skills"
 * SCALA
 
 ## UI Development
-* QtQuick
+* Qt
+  * QtQuick
 
 ## Web Development
 * CSS
