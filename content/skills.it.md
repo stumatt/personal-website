@@ -1,8 +1,4 @@
----
-title: "Skills"
-date: 2020-09-06T18:25:16+02:00
-draft: true
----
+
 +++
 title = "skills"
 slug = "skills"

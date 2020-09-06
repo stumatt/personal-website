@@ -1,14 +1,10 @@
----
-title: "About"
-date: 2020-09-06T18:24:57+02:00
-draft: true
----
+
 
 +++
-title = "About Me"
-
+  title = "About Me" 
+slug = "about"
 thumbnail = "images/tn.png"
-
+description = "about"
 +++
 
 ---------------------------
