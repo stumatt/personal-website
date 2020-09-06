@@ -14,14 +14,14 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 # Career
 ---------------------------
 ## Education
-* [2019 - Now] *Master of Engineering in Computer Engineering*, Università degli studi di Bergamo, Italy
-* [Jan - Jun 2020] *Erasmus Semester*, Blekinge Institute of Technology, Karlskrona, Sweden
+* **[2019 - Now]** *Master of Engineering in Computer Engineering*, Università degli studi di Bergamo, Italy
+* **[Jan - Jun 2020]** *Erasmus Semester*, Blekinge Institute of Technology, Karlskrona, Sweden
   * Software metrics, software testing, decision support systems, compiler design
-* [2016 - 2019] *Bachelor of Engineering in Computer Engineering*, Università degli Studi di Bergamo, Italy
+* **[2016 - 2019]** *Bachelor of Engineering in Computer Engineering*, Università degli Studi di Bergamo, Italy
 
 
 
 ## Working experience
-* [July 2019 - Now] *Internship*, UI Developer, Teal Blue SB, Bergamo, Italy
+* **[July 2019 - Now]** *Internship*, UI Developer, Teal Blue SB, Bergamo, Italy
 
 ---------------------------
