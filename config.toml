@@ -81,11 +81,6 @@ disqusShortname = "yourdiscussshortname"
                 url = "about"
 
             [[languages.en.menu.main]]
-                name = "Career"
-                weight = 2.0
-                url = "career"
-
-            [[languages.en.menu.main]]
                 name = "Skills"
                 weight = 3
                 url = "skills"
@@ -108,14 +103,9 @@ disqusShortname = "yourdiscussshortname"
         [[languages.it.menu.main]]
             name = "About"
             weight = 1.0
-            url = "about"
-
-        [[languages.it.menu.main]]
-            name = "Carriera"
-            weight = 2.0
-            url = "career"
+            url = "it/about"
 
         [[languages.it.menu.main]]
             name = "Competenze"
             weight = 3
-            url = "skills"
+            url = "it/skills"
