@@ -6,9 +6,9 @@ draft: true
 
 +++
 title = "About Me"
-slug = "about"
+
 thumbnail = "images/tn.png"
-description = "about"
+
 +++
 
 ---------------------------
