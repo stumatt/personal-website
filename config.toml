@@ -58,7 +58,7 @@ disqusShortname = "yourdiscussshortname"
     name = "Github"
     icon = "fab fa-github"
     weight = 2
-    url = "https://github.com/matteo-tealblue/"
+    url = "https://github.com/mstucchi-tealblue/"
 [[params.social]]
     name = "LinkedIn"
     icon = "fab fa-linkedin"
