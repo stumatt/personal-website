@@ -1,7 +1,7 @@
 
 
 +++
-  title = "About Me" 
+  title = "About Me"
 slug = "about"
 thumbnail = "images/tn.png"
 description = "about"
@@ -23,6 +23,6 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 
 ## Working experience
-* **[July 2019 - Now]** *Internship*, UI Developer, Teal Blue SB, Bergamo, Italy.
+* **[July 2020 - Now]** *Internship*, UI Developer, Teal Blue SB, Bergamo, Italy.
 
 ---------------------------
