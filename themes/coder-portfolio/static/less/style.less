@@ -307,6 +307,7 @@ img {
         margin-top: 1.0rem;
         font-size: 1.8rem;
         color: @fg-color;
+		
         @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
           font-size: 1.6rem;
         }
@@ -454,6 +455,10 @@ img {
   font-weight: bold;
 }
 
+.icon-no-effect{
+	//To define
+}
+
 a {
   position: relative;
   transition: 0.5s;
@@ -465,8 +470,8 @@ a:before, a:after {
   content: "";
   display: inline-block;
   width: 0;
-  height: 2px;
-  background: #F30034;
+  height: 1px;
+  background: #7f181b;
   transition: 0.5s;
 }
 
@@ -482,9 +487,9 @@ a:hover {
   text-decoration: none;
 }
 
-// a:hover:before, a:hover:after {
-//   width: 50%;
-// }
+a:hover:before, a:hover:after {
+   width: 50%;
+}
 
 .private {
   display: none;
@@ -531,7 +536,7 @@ a:hover {
   height: 65px;
   width: 100%;
   border-top: 1px solid rgba(0, 0, 0, 0.05);
-  background: #fefefe;
+  background: #00b2a9;
 }
 
 .fixed-bar .container {
