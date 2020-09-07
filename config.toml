@@ -57,6 +57,11 @@ disqusShortname = "yourdiscussshortname"
 [[params.social]]
     name = "LinkedIn"
     icon = "fab fa-linkedin"
+    weight = 2
+    url = "https://www.linkedin.com/in/matteo-stucchi-0110aa11a/"
+[[params.social]]
+    name = "LinkedIn"
+    icon = "fab fa-linkedin"
     weight = 3
     url = "https://www.linkedin.com/in/matteo-stucchi-0110aa11a/"
 
@@ -99,7 +104,6 @@ disqusShortname = "yourdiscussshortname"
         keywords = "blog,developer,personal"
 
     [languages.it.menu] # It is possible to change the menu too.
-
         [[languages.it.menu.main]]
             name = "About"
             weight = 1.0
